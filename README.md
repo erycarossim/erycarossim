@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 ## Oiii! Seja bem vindo! 👋
-##
+
 
 Eu sou a ✨Eryca Rossim✨
  <div>
@@ -24,9 +24,7 @@ Eu sou a ✨Eryca Rossim✨
   - 🌱 Estou estudando Front-End! <br>
   - ❤️‍🔥 Amo tecnologia!<br>
   - ☘️ Sorte é viver o que ama de verdade!<br>
-  <br>
-  <a href="https://github.com/erycarossim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erycarossim&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+ 
   <img align="right" alt="" height="200" width="180" src="https://user-images.githubusercontent.com/79291787/131201568-e4fee736-4300-4d5c-b8e8-5fb965fdd54e.gif">
 </div>
   
